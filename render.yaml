@@ -1,8 +1,8 @@
 databases:
   - name: mysitedb
     plan: free
-    databaseNmae: bookproject
-    user: bookproject
+    databaseNmae: mysite
+    user: mysite
 services:
   - type: web
     plan: free
